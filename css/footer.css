@@ -1,11 +1,13 @@
 /* Footer */
 .footer {
     background-color: black;
-    color: white;
+    color: white;    
+    padding: 40px 24px;
 }
 .footer-main {
     display: flex;
-    padding: 50px min(100%, 24px);
+    justify-content: space-between;
+    align-items: flex-start;
 }
 .layout-section img {
     filter: invert(100%) sepia(0%) saturate(7484%) hue-rotate(16deg) brightness(110%) contrast(100%);

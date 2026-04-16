@@ -55,6 +55,7 @@ main {
     flex-direction: column;
     align-self: center;
     text-align: center;
+    min-height: 100dvh;
 }
 
 .two-buttons {
