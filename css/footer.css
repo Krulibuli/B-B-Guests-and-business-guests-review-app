@@ -14,3 +14,40 @@
     color: white;
     text-decoration: none;
 }
+
+/* Top Footer */
+.menu-list {
+    display: flex;
+    flex-direction: column;
+}
+.contact-list {
+    display: flex;
+}
+.meeting a {
+    padding: 0 50px;
+}
+
+/* Horizontal Line Break */
+.line-break {
+    width: 100%;
+    height: 2px;
+    margin: 25px 0;
+    background-color: white;
+}
+/* Vertical Line Break */
+.vertical-line {
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: 0 25px;
+}
+/* Bottom Footer */
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list-content {
+    display: flex;
+    justify-content: flex-end;
+}
