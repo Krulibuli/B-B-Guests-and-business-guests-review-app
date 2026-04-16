@@ -1,3 +1,8 @@
+:root {
+    --purple: #7d29c2;
+}
+
+
 .emojis{
     font-size: 500%;
     color: gray;
@@ -26,8 +31,10 @@ header {
 body {
     padding: 0;
     margin: 0;
-    background-color: #7d29c2;
+    background-color: var(--purple);
     font-family: "Inter", sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 .logo {
     box-sizing: border-box;
@@ -56,4 +63,26 @@ body {
 .footer a{
     color: white;
     text-decoration: none;
+}
+
+main {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    text-align: center;
+}
+
+.two-buttons {
+    align-self: center;
+}
+
+button {
+    background-color: var(--purple);
+    border: white 3px solid;
+    border-radius: 10px;
+    padding: 30px;
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
 }
