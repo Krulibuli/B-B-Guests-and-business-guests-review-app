@@ -12,6 +12,7 @@
     width: 350px;
     border-radius: 50px;
 }
+
 header {
     box-sizing: border-box;
     width: 100%;
@@ -26,6 +27,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: #7d29c2;
+    font-family: "Inter", sans-serif;
 }
 .logo {
     box-sizing: border-box;
