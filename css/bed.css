@@ -1,0 +1,7 @@
+@import url(emoji.css);
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #7d29c2;
+    font-family: "Inter", sans-serif;
+}
