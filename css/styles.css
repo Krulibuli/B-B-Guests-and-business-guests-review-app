@@ -51,12 +51,12 @@ body {
 
 
 main {
+    margin-top: 20vh;
     color: white;
     display: flex;
     flex-direction: column;
     align-self: center;
     text-align: center;
-    min-height: 100dvh;
     margin-bottom: 280px;
 }
 

@@ -1,14 +1,30 @@
 .emojis{
     font-size: 500%;
     color: gray;
+    padding-top: 10px;
 }
 .emoji_scale{
+    display:flex;
     text-align: center;
+    justify-content: space-between;
     background-color: white;
     margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding: 10px;
+    padding: 20px;
+    height: 100px;
     width: 350px;
     border-radius: 50px;
+}
+.very-angry:hover{
+ color: red;
+}
+.angry:hover{
+ color: gold;
+}
+.happy:hover{
+ color: lightgreen;
+}
+.very-happy:hover{
+ color: green;
 }
