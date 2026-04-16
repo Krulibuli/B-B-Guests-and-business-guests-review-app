@@ -17,6 +17,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: #7d29c2;
+    font-family: "Inter", sans-serif;
 }
 .logo {
     box-sizing: border-box;
@@ -28,76 +29,10 @@ body {
 .logo img {
     height: 45px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Footer */
 .footer {
     background-color: black;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .footer-main {
     display: flex;
