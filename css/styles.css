@@ -28,3 +28,88 @@ body {
 .logo img {
     height: 45px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+.footer {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-main {
+    display: flex;
+    padding: 50px min(100%, 24px);
+}
+.logo {
+    box-sizing: border-box;
+    background-color: white;
+    height: 45px;
+    padding-left: 24px;
+    width: 150px;
+}
+.logo img {
+    height: 45px;
+}
