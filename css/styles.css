@@ -29,6 +29,8 @@ body {
 .logo img {
     height: 45px;
 }
+
+
 /* Footer */
 .footer {
     background-color: black;
@@ -38,13 +40,10 @@ body {
     display: flex;
     padding: 50px min(100%, 24px);
 }
-.logo {
-    box-sizing: border-box;
-    background-color: white;
-    height: 45px;
-    padding-left: 24px;
-    width: 150px;
+.layout-section img {
+    filter: invert(100%) sepia(0%) saturate(7484%) hue-rotate(16deg) brightness(110%) contrast(100%);
 }
-.logo img {
-    height: 45px;
+.footer a{
+    color: white;
+    text-decoration: none;
 }
