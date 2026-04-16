@@ -86,3 +86,17 @@ button {
     color: white;
     font-weight: 500;
 }
+
+main a {
+    text-decoration: none;
+    color: white;
+}
+
+button:hover, button:active {
+    font-weight: 800;
+    border: 6px solid white;
+} 
+
+.second-question {
+    margin-top: 100px;
+}
