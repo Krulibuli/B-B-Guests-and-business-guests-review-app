@@ -17,14 +17,19 @@
     border-radius: 50px;
 }
 .very-angry:hover{
- color: red;
+    color: red;
 }
 .angry:hover{
- color: gold;
+    color: gold;
 }
 .happy:hover{
- color: lightgreen;
+    color: lightgreen;
 }
 .very-happy:hover{
- color: green;
+    color: green;
+}
+.style-emoji{
+    font-size: 1000%;
+    color: green;
+    padding-top: 10px;
 }

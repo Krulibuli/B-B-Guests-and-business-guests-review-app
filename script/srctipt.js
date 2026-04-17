@@ -1,5 +1,4 @@
 const stargroup = document.querySelectorAll('.emoji_scale');
-var style = document.querySelector("style");
 stargroup.forEach(group=> {
 const star1 = group.querySelector('.very-angry');
 const star2 = group.querySelector('.angry');
